@@ -37,7 +37,7 @@ export default function Home() {
             <h2 className="text-6xl w-150">Redefine Your Horizons</h2>
             <p className="text-[#86858A] w-145">At DAKSphere, we are on a mission to transform the way you achieve your goals. Leveraging cutting-edge technology and a deep understanding of human motivation.</p>
             <div className="flex text-[#929094] gap-10 justify-between">
-              <span className="w-60 flex gap-4 items-center"><FaSpaceShuttle className="text-2xl text-[#060527]"/><p className="w-40 ">Ignite Your Ambition with DAKSphere's</p></span>
+              <span className="w-60 flex gap-4 items-center"><FaSpaceShuttle className="text-2xl text-[#060527]"/><p className="w-40 ">Ignite Your Ambition with DAKSphere&apos;s</p></span>
               <p className="w-70">Elevate Your Mindset,Amplify Your Achievement</p>
             </div>
             <div className="flex text-[#86858A] justify-between">
